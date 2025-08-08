@@ -1,0 +1,15 @@
+---
+namespace: hbjydev
+name: general
+version: 1.0.0
+readme: README.md
+authors:
+  - Hayden Young <hayden@hayden.moe> (https://hayden.moe)
+license: [Apache-2.0]
+tags: []
+dependencies: {}
+repository: http://github.com/hbjydev/ansible-collection-general
+issues: http://github.com/hbjydev/ansible-collection-general/issues
+build_ignore:
+  - .git
+  - .venv

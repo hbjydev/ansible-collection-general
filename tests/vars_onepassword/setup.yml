@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  tasks:
+    - name: Dump Vars
+      ansible.builtin.debug: '{{ my_test_var }}'

@@ -1,0 +1,10 @@
+[project]
+name = "ansible-plugin-1password-vars"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ansible>=11.8.0",
+    "ansible-core~=2.18",
+]
